@@ -1,0 +1,19 @@
+{
+  "name": "serial-filter",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/serial-filter",
+  "scripts": {
+    "test": "standard && node test"
+  },
+  "devDependencies": {
+    "standard": "^7.1.2",
+    "yes-no-words": "^1.3.0"
+  },
+  "keywords": [
+    "filter",
+    "array filter",
+    "promise",
+    "serial"
+  ]
+}
